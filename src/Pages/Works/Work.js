@@ -30,65 +30,65 @@ const Work = () => {
        <Container maxWidth="lg" sx={WorkStyle.gallaryStyle}>
        <Grid container spacing={4} direction="row" alignItems="center" justifyContent="center">
        {/* ====1st Row==== */}
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work1} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work2} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                  <img src={work3} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
         {/* ====2nd Row==== */}
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work4} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work5} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                  <img src={work6} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
         {/* ====3rd Row==== */}
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work7} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work8} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                  <img src={work9} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
         {/* ====4th Row==== */}
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work10} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                 <img src={work11} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
         </Grid>
-        <Grid item xs={12} sm={4} >
+        <Grid item xs={12} sm={6} md={4} >
             <Paper elevation={8}>
                  <img src={work12} alt="letsMeetImage" style={{width:"100%", height:"15rem"}} />
             </Paper>
